@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS id FROM etudiants;
